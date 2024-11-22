@@ -11,7 +11,7 @@ A simple React application that allows users to view, add, and delete users. The
 ## Requirements
 
 - Node.js and npm
-- Backend API running on `http://localhost:8000` (with appropriate endpoints for fetching, adding, and deleting users).
+- Backend API running on `http://localhost:8000` (with appropriate endpoints for fetching, adding, and deleting users, ex. `http://localhost:8000/api/users/`).
 
 ## Installation
 
